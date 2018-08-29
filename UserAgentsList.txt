@@ -781,4 +781,4 @@ ZTE Blade V7#Mozilla/5.0 (Linux; Android 6.0; ZTE BLADE V7 LITE Build/MRA58K) Ap
 #mozilla/5.0 (linux; android 6.0.1; lg-k500n build/mmb29m) applewebkit/537.36 (khtml like gecko) chrome/68.0.3440.91 mobile safari/537.36
 #mozilla/5.0 (linux; android 6.0.1; lg-m150 build/mxb48t) applewebkit/537.36 (khtml like gecko) chrome/68.0.3440.91 mobile safari/537.36
 #mozilla/5.0 (linux; android 6.0.1; lg-m160 build/mxb48t) applewebkit/537.36 (khtml like gecko) chrome/52.0.2743.98 mobile safari/537.36
-#Pingdom#Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/61.0.3163.100 Chrome/61.0.3163.100 Safari/537.36 PingdomPageSpeed/1.0 (pingbot/2.0; +http://www.pingdom.com/)
+Pingdom#Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/61.0.3163.100 Chrome/61.0.3163.100 Safari/537.36 PingdomPageSpeed/1.0 (pingbot/2.0; +http://www.pingdom.com/)
