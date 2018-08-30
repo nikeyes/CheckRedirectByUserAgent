@@ -6,7 +6,7 @@ var urlRedirectExpected = 'http://m.genbeta.com/';
 var useIntervals = true;
 var timeoutBetweenIntervalsOfRequestInMs = 600;
 var numberOfUrlsInInterval = 10;
-var userAgentsFile = 'UserAgentsList.txt';
+var userAgentsFile = 'UserAgentsListMobile.txt';
 
 urlOrigen = process.argv[2] || urlOrigen;
 urlRedirectExpected = process.argv[3] || urlRedirectExpected;
