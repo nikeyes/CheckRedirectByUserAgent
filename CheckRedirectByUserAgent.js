@@ -1,19 +1,19 @@
 var fs = require('fs');
 var request = require('request');
 
-var urlOrigen = 'https://www.genbeta.com/';
-var urlRedirectExpected = 'https://m.genbeta.com/';
+var urlOrigen = 'https://www.duckduckgo.com/';
+var urlRedirectExpected = 'https://duckduckgo.com/';
 var useIntervals = true;
-var timeoutBetweenIntervalsOfRequestInMs = 300;
+var timeoutBetweenIntervalsOfRequestInMs = 600;
 var numberOfUrlsInInterval = 10;
 var userAgentsFile = 'UserAgentsListMobile.txt';
 
 urlOrigen = process.argv[2] || urlOrigen;
 urlRedirectExpected = process.argv[3] || urlRedirectExpected;
-useIntervals = process.argv[4] || useIntervals;
-timeoutBetweenIntervalsOfRequestInMs = process.argv[5] || timeoutBetweenIntervalsOfRequestInMs;
-numberOfUrlsInInterval = process.argv[6] || numberOfUrlsInInterval;;
-userAgentsFile = process.argv[7] || userAgentsFile;
+userAgentsFile = process.argv[4] || userAgentsFile;
+useIntervals = process.argv[5] || useIntervals;
+timeoutBetweenIntervalsOfRequestInMs = process.argv[6] || timeoutBetweenIntervalsOfRequestInMs;
+numberOfUrlsInInterval = process.argv[7] || numberOfUrlsInInterval;
 
 var userAgentsList = readUserAgentsFromFile(userAgentsFile);
 
