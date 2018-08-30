@@ -1,8 +1,8 @@
 var fs = require('fs');
 var request = require('request');
 
-var urlOrigen = 'http://www.genbeta.com/';
-var urlRedirectExpected = 'http://m.genbeta.com/';
+var urlOrigen = 'https://www.genbeta.com/';
+var urlRedirectExpected = 'https://m.genbeta.com/';
 var useIntervals = true;
 var timeoutBetweenIntervalsOfRequestInMs = 300;
 var numberOfUrlsInInterval = 10;
