@@ -6,7 +6,7 @@ Check Redirect by User Agents in txt file
 `node CheckRedirectByUserAgent.js [URL] [URL_ESPERADA_PARA_EL_REDIRECT FICHERO_CON_USER_AGENTS] [USAR_DELAY_ENTRE_LLAMADAS] [TIEMPO_ENTRE_LLAMADAS_EN_MILISEGUNDOS] [NUMERO_DE_URLS_EN_CADA_LLAMADA]`     
 
   
-## Ejemplos  
+## Samples  
 1. Usar los valores por defecto dentro del fichero CheckRedirectByUserAgent.js:  
 `node CheckRedirectByUserAgent.js`  
 
