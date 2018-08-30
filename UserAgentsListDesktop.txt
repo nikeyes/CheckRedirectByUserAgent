@@ -77,7 +77,6 @@
 #mozilla/5.0 (compatible; msie 10.0; windows nt 6.2; wow64; trident/6.0; touch; masmjs)
 #mozilla/5.0 (macintosh; intel mac os x 10.11; rv49.0) gecko/20100101 firefox/49.0 (flipboardproxy/1.2; +http//flipboard.com/browserproxy)
 #mozilla/4.0 (compatible; msie 8.0; windows nt 6.1; trident/4.0; ptst 2.295)
-#mozilla/5.0 (compatible; msie 10.0; windows phone 8.0; trident/6.0; iemobile/10.0; arm; touch; microsoft; lumia 640 xl dual sim)
 #mozilla/5.0 (compatible; linux x86_64; mail.ru_bot/2.0; +http//go.mail.ru/help/robots)
 #mozilla/5.0 (compatible; mojeekbot/0.6; +https//www.mojeek.com/bot.html)
 #mozilla/4.0 (compatible; msie 8.0; windows nt 5.1; trident/4.0; .net clr 2.0.50727)
@@ -197,7 +196,6 @@
 #mozilla/5.0 (compatible; yahoo ad monitoring; https//help.yahoo.com/kb/yahoo-ad-monitoring-sln24857.html)  yahoo.adquality.lwd.desktop/1534832462-0
 #mozilla/5.0 (compatible; yahoo ad monitoring; https//help.yahoo.com/kb/yahoo-ad-monitoring-sln24857.html)  yahoo.adquality.lwd.desktop/1534832516-0
 #mozilla/5.0 (compatible; yahoo ad monitoring; https//help.yahoo.com/kb/yahoo-ad-monitoring-sln24857.html)  yahoo.adquality.lwd.desktop/1534843565-0
-#mozilla/5.0 (compatible; msie 10.0; windows phone 8.0; trident/6.0; iemobile/10.0; arm; touch; nokia; lumia 635)
 #mozilla/5.0 (macintosh; intel mac os x 10.13; rv52.0) gecko/20100101 firefox/52.0
 #mozilla/5.0 (macintosh; intel mac os x 10.13; rv58.0) gecko/20100101 firefox/58.0
 #mozilla/5.0 (macintosh; intel mac os x 10.7; rv48.0) gecko/20100101 firefox/48.0
@@ -509,7 +507,6 @@
 #mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml like gecko) chrome/57.0.2987.98 safari/537.36
 #mozilla/5.0 (windows nt 6.1; wow64) applewebkit/537.36 (khtml like gecko) chrome/61.0.3163.91 safari/537.36
 #mozilla/5.0 (windows nt 6.1; wow64; rv40.1) gecko/20100101 firefox/40.1
-#mozilla/5.0 (windows phone 8.1; arm; trident/8.0; touch; rv11.0; webbrowser/8.1; iemobile/11.0; microsoft; lumia 650) like gecko
 #mozilla/5.0 (windows; u; windows nt 5.1; en-us) applewebkit/534.14 (khtml like gecko) chrome/9.0.600.0 safari/534.14
 #mozilla/5.0 (windows; u; windows nt 5.2; en-us; rv1.8b5) gecko/20051006 firefox/52.0
 #mozilla/5.0 (windows; u; windows nt 6.1; en-us; rv1.9.2.23) gecko/20110920 firefox/3.6.23

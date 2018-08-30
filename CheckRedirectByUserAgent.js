@@ -4,7 +4,7 @@ var request = require('request');
 var urlOrigen = 'http://www.genbeta.com/';
 var urlRedirectExpected = 'http://m.genbeta.com/';
 var useIntervals = true;
-var timeoutBetweenIntervalsOfRequestInMs = 600;
+var timeoutBetweenIntervalsOfRequestInMs = 300;
 var numberOfUrlsInInterval = 10;
 var userAgentsFile = 'UserAgentsListMobile.txt';
 
